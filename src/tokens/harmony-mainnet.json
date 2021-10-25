@@ -142,5 +142,13 @@
     "name": "Artemis",
     "decimals": 18,
     "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+  },
+    {
+    "chainId": 1666600000,
+    "address": "0x07189ba29febdf88e9c03c8cce976f6b66253e1f",
+    "symbol": "BPiggy",
+    "name": "BabyPiggy",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SquidFinder/Baby-Piggy-/main/BPiggy_Token.png"
   }
 ]
